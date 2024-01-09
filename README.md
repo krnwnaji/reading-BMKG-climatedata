@@ -2,8 +2,6 @@
 
 This R script automates the process of reading multiple Excel files containing monthly climate data from the BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) and merges them into a single, comprehensive dataset.
 
-Example data are in Riau Province with years Collected from 2020-2022
-
 Key Features:
 
 Consolidates data from multiple stations and files: Handles diverse data sources efficiently.
@@ -25,3 +23,5 @@ Usage:
 Update file paths: Adjust data_directory and output_file variables to match your data structure.
 Ensure libraries: Install required libraries using install.packages().
 Run the script: Execute the code to merge and save the dataset.
+
+Example data are in Riau Province with years Collected from 2020-2022 stored in Data.zip
